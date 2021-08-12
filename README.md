@@ -5,6 +5,11 @@ Project Connect is an attempt to create the biggest IoT data server for remote o
 Includes : <br>
 Hareware implementation : code documentation <br>
 Wb service. visit: http://connect.arthor.com.bd/  <br>
+# Compatible Hardware List 
+N.B: this list is made based on what devices has been tested so far by our team. So this list will get updated periodically <br>
+*Node MCU<br> 
+*ESP8266<br>
+*ESp32<br>
 # Code analysis 
 
 # Guide 
