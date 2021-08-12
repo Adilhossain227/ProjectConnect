@@ -10,6 +10,8 @@ N.B: this list is made based on what devices has been tested so far by our team.
 *Node MCU<br> 
 *ESP8266<br>
 *ESp32<br>
+# Software compatibility Issues 
+If you do not have the <ESP8266WiFi.h> then get the library for, here : https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi <br>
 # Code analysis 
 *Put your SID and auth key in the beginning part of this code. See the commented areas. <br>
 *After that put your wifi name and password to access the internet <br> 
