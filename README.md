@@ -11,7 +11,10 @@ N.B: this list is made based on what devices has been tested so far by our team.
 *ESP8266<br>
 *ESp32<br>
 # Code analysis 
-
+*Put your SID and auth key in the beginning part of this code. See the commented areas. <br>
+*After that put your wifi name and password to access the internet <br> 
+*No other things need to be changed. Now in the void loop() you can use max 5 variables to send to server. You can rename and use 
+your variables. Then just send it via send2server() function. Also put your code and algorithm in as usual places in void loop(). 
 # Guide 
 Step 1: Create an account in Project Connect <br>
 Step 2: Create a service from [Create Service] option<br>
